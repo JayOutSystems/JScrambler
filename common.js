@@ -1,4 +1,3 @@
-<script>
 (function () {
     window.Dom = {
         get: function (id) {
@@ -574,4 +573,3 @@
         SPRITES.TRUCK
     ];
 }());
-</script>
